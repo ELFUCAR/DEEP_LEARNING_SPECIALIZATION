@@ -1,4 +1,4 @@
-"# DEEP_LEARNING_SPECIALIZATION --- COURSERA" 
+"# DEEP_LEARNING_SPECIALIZATION --- COURSERA " 
 
 Neural Networks and Deep Learning --- Course 1
       *Python_Basics_With_Numpy_v3a
